@@ -1,5 +1,6 @@
 # Easier slacknimate
 
+This uses the exe from [Slacknimate](https://github.com/mroth/slacknimate)
 ## To use:
 - Put this folder somewhere and include it in your PATH
 - Also generate a slack token and put it in the SLACK_TOKEN environment variable
