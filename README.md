@@ -2,6 +2,7 @@
 
 ## To use:
 - Put this folder somewhere and include it in your PATH
+- Also generate a slack token and put it in the SLACK_TOKEN environment variable
 - To use the 'file edit' version:
   - Set the %VSCODE_EXE% environment variable 
   - Call with `slacknimate-easy %channel% %delay%`
@@ -17,3 +18,4 @@ Extra info:
 
 ## TODO
 - Make option to have it automatically open the generated txt file so that you can put the frames in there, and then upon closing continue the programme
+- Allow just pasting the entire 'link to'
