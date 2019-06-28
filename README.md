@@ -1,9 +1,11 @@
 # Easier slacknimate
 
-This uses the exe from [Slacknimate](https://github.com/mroth/slacknimate)
+This uses the exe from [Slacknimate](https://github.com/mroth/slacknimate)  
+and was built to make using it a bit simpler (rather than having to manually create a txt file with the animation in it and sending that to StdIn etc)
+
 ## To use:
 - Put this folder somewhere and include it in your PATH
-- Also generate a slack token and put it in the SLACK_TOKEN environment variable
+- Also generate a slack token and put it in the SLACK_TOKEN environment variable, as per the instructions in the Slacknimate repo
 - To use the 'file edit' version:
   - Set the %VSCODE_EXE% environment variable (it opens up Visual Studio Code as editor)
   - Call with `slacknimate-easy %channel% %delay%`
