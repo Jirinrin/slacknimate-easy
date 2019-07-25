@@ -15,7 +15,11 @@
 
 Extra info:
 - It is probably best to clean your `temp/` folder every once in a while.
+- It seems that the process starting VS code doesn't work in powershell or cmd.exe?
 
 ## TODO
 - Make option to have it automatically open the generated txt file so that you can put the frames in there, and then upon closing continue the programme
 - Allow just pasting the entire 'link to'
+- Allow editing an existing message...?!!
+- Allow for non-loop version
+- Allow for back-and-forth-going version
