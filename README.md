@@ -15,7 +15,7 @@ and was built to make using it a bit simpler (rather than having to manually cre
     - `%animation%` should be delimited by quote chars (`'`/`"`) if it has spaces; use the `&` char between animation frames
   - (But this one is crap with unicode stuff like kaomoji and chinese chars etc)
 - Extra arg info:
-  - `%channel%` is the channel name with `#` in front or the channel identifyer when you get the last part of `right click channel => Copy Link` 
+  - `%channel%` is the channel name with `#` in front or the channel identifier when you get the last part of `right click channel => Copy Link` 
   - `%delay` can be excluded; it is defined in seconds
 
 Extra info:
