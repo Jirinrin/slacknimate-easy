@@ -1,7 +1,7 @@
 # Easier slacknimate
 
 This uses a modified exe from [Slacknimate](https://github.com/mroth/slacknimate) (modified source code: https://github.com/Jirinrin/slacknimate/tree/my-changes)
-and was built to make using it a bit simpler (rather than having to manually create a txt file with the animation in it and sending that to StdIn etc)
+and was built to make using it a bit simpler (rather than having to manually create a txt file with the animation in it and sending that to StdIn etc).
 
 ## To use:
 - Put this folder somewhere and include it in your PATH
@@ -11,7 +11,8 @@ and was built to make using it a bit simpler (rather than having to manually cre
   - Call with `slacknimate-easy %channel% %opts%`
   - Input the animation in the editor, save and close
 - Extra arg info:
-  - `%channel%` is the channel name with `#` in front or the channel identifier when you get the last part of `right click channel => Copy Link` 
+  - `%channel%` is the channel name with `#` in front or the channel identifier when you get the last part of `right click channel => Copy Link`
+    - You can also just paste the entire link that you get with `right click channel => Copy Link`
   - `%opts` is optional, you can pass up to 2 additional arguments:
     - A number (float) which will define the delay between frames in seconds
     - A string which can contain either/or of the characters `s` and `b`:
