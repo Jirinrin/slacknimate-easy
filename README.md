@@ -26,6 +26,8 @@ Extra info:
 ## TODO
 - Allow editing an existing message...?
 - Make bat script to clean temp folder
+- Allow for different editor than VsCode
+- Allow to edit username...?
 
 
 #### DEPRECATED (not updated anymore)
