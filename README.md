@@ -18,6 +18,7 @@ and was built to make using it a bit simpler (rather than having to manually cre
     - A string which can contain either/or of the characters `s` and `b`:
       - `s` ('stop'): makes the animation stop after one cycle instead of looping
       - `b` ('backandforth'): makes the animation go back and forth so you don't need to have duplicate frames
+      - `u` ('username'): makes the script update your 'display name' and 'real name' instead of post a message (you still need to supply a dummy channel arg tho for the time being)
 
 Extra info:
 - It is probably best to clean your `temp/` folder every once in a while.
