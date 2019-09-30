@@ -23,6 +23,7 @@ if not defined opts set opts=""
 
 set loop=--loop
 set backandforth=
+set updateproperty=
 
 if not x%opts:s=%==x%opts% ( REM s for stop
   set loop=
